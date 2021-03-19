@@ -1,0 +1,21 @@
+/* Saya Abighail Shafira Ihsani mengerjakan evaluasi TP 2 dalam mata kuliah 
+Desain dan Pemrograman Beriorientasi Objek untuk keberkahanNya maka saya 
+tidak melakukan kecurangan seperti yang telah dispesifikan. Aamiin. */
+
+kesulitan :
+- Koneksi ke database
+- Input data ke database
+
+Hal baru yang kalian pelajari :
+- Menggunakan library JDBC Driver untuk koneksi ke database
+- Layouting menggunakan panel desktop
+
+Fitur yang sudah dikerjakan :
+- 3 Menu dalam bentuk panel
+- Koneksi ke database
+- Input data dari form ke database 
+- Menampilkan data dari database ke menu tabel
+- Menambahkan foto pada menu info
+
+*library JDBC Driver berada di folder TP2
+*screenshot tampilan berada di folder screenshot tampilan
